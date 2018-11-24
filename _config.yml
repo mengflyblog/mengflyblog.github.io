@@ -1,6 +1,6 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: MengFly
+bio: 'Love Coding, Love Cartoon'
 
 # twitter summary info
 description: A blog about Physics and teaching science
@@ -11,7 +11,7 @@ external-image: false
 picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
-# your url: http://USERNAME.github.io
+url: https://mengflyblog.github.io
 
 permalink: /:title/
 
