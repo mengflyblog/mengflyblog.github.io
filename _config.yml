@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: MengFly
+bio: Love Coding, Love Cartoon
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://mengflyblog.github.io
+url: https://mengflyblog.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/mengfly
+github: https://github.com/mengfly/
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
